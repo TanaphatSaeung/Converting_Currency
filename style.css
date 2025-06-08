@@ -14,12 +14,13 @@ body {
     padding: 20px;
 }
 .btn{
-    color: #fff;
     background-color: orange;
     cursor: pointer;
     border-radius: 5px;
+    border-width: 3px;
     font-size: 15px;
     padding: 5px 12px;
+    border-style:outset;
 }
 .money-img{
     width: 220px;
